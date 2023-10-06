@@ -1,5 +1,3 @@
-Thank you for clarifying. If Keeper is a website rather than an app, we can adjust the description accordingly. Here's the modified README:
-
 # Keeper Website
 
 Keeper Website is a lightweight and intuitive note-taking web application created using React. Inspired by the simplicity and functionality of Google Keep, Keeper Website provides users with a convenient platform to jot down notes, create to-do lists, and organize their thoughts effortlessly.
